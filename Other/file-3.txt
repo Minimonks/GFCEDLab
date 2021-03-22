@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-This is file 1. problem
-MY CHANGE
-=======
 This is file 1, or so I am told
->>>>>>> 66db4c6469c13b51e5a3004f9255c0087e8a7772
+
